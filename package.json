@@ -1,0 +1,11 @@
+{
+  "name": "my-app",
+  "scripts": {
+    "dev": "nuxt"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "nuxt": "^1.4.0",
+    "vuelidate": "^0.6.2"
+  }
+}
